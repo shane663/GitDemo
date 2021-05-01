@@ -1,2 +1,3 @@
 Bug fix text
 This line also caueses the conflict.
+This line causes a conflict.
