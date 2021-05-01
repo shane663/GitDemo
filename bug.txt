@@ -1,1 +1,2 @@
 Bug fix text
+This line also caueses the conflict.
