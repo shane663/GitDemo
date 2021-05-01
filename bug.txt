@@ -1,3 +1,4 @@
 Bug fix text
 This line also caueses the conflict.
 This line causes a conflict.
+This line was added on the remote repository on GitHub.
